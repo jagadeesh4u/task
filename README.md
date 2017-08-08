@@ -1,2 +1,2 @@
-Tools Used:
-Pandas and pandasql
+Tools Used :
+Pandas and pandasql and sql
